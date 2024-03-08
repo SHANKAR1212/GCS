@@ -1,9 +1,9 @@
+
 @media (min-width: 992px) {
   .topbar__left {
     column-gap: 10px;
   }
-
-  .projects-one__single {
+  .projects-one__single{
     margin-bottom: 20px;
   }
 }
@@ -12,18 +12,15 @@
   .topbar__left {
     column-gap: 10px;
   }
-
-  .blockquote1 p {
+  .blockquote1 p{
     font-size: 16px;
   }
-
   .blockquote2 p {
     font-size: 18px;
-  }
-
-  .technical-item3 h3 {
-    font-size: 32px;
-  }
+}
+.technical-item3 h3{
+  font-size: 32px;
+}
 }
 
 @media (min-width:1200px) {
@@ -50,15 +47,16 @@
   .title-product {
     font-size: 32px;
   }
-
   .ins_img {
     position: absolute;
     right: 0;
     top: -60px;
     width: 168px;
-  }
-
-  .blog-card__date {
-    top: -26px;
-  }
+}
+.blog-card__date{
+  top: -26px;
+}
+.block-title h3{
+   margin: 0 0 16px 0;
+}
 }
